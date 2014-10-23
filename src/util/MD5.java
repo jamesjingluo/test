@@ -10,6 +10,7 @@ public class MD5 {
         System.out.println("Hello, I am Luojing");
         System.out.println("I am very good , how are you?");
         System.out.println("fine, thanks");
+        // master change
 	}
 
 }
