@@ -13,6 +13,8 @@ public class MD5 {
         // master change
         //changed by luojing
        // iam really james branch
+        
+        // luojing change again
 	}
 
 }
